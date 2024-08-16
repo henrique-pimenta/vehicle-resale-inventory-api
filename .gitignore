@@ -1,0 +1,10 @@
+__pycache__
+/venv
+*.env
+coverage.*
+*.coverage
+/.vscode/
+*.tfstate
+*.backup
+terraform/
+*.lock.*
